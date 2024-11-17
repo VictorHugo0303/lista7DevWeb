@@ -1,0 +1,6 @@
+@lista7_HostAddress = http://localhost:5218
+
+GET {{lista7_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
